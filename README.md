@@ -13,8 +13,8 @@
 
 ## Tools
 
-- [electron-builder - Create installers.](https://github.com/electron-userland/electron-builder)
-- [devtron - Official DevTools extension](https://github.com/electron/devtron)
+- [electron-builder - Create installers.](https://github.com/electron-userland/electron-builder) 项目开发打包工具
+- [devtron - Official DevTools extension](https://github.com/electron/devtron) 项目开发打包工具
 - [electron-packager - Package and distribute your app.](https://github.com/electron-userland/electron-packager)
 - [electron-release - Publish a new release of your app to GitHub.](https://github.com/jenslind/electron-release)
 
