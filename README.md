@@ -20,5 +20,5 @@
 
 ## 综合
 
-- [electron-api-demos例子](https://github.com/electron/electron-api-demos)
+- [electron-api-demos](https://github.com/electron/electron-api-demos) 一些比较常用的API，克隆后跑起来你就可以快速查看这些常用API
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron)
