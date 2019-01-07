@@ -89,6 +89,14 @@
 - [electron-api-demos](https://github.com/electron/electron-api-demos) 一些比较常用的API，克隆后跑起来你就可以快速查看这些常用API
 - [Electron API usage](https://github.com/hokein/electron-sample-apps) - electron API 使用示例应用程序.
 
+## 开源项目
+
+> 一些开源项目学习
+
+- [使用 Electron + React 开发的音乐客户端](https://github.com/caijinyc/Here)
+- [基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐](https://github.com/SmallRuralDog/electron-vue-music)
+- [WeChat client built with React, MobX and Electron.](https://github.com/trazyn/weweChat)
+
 
 ## 综合
 
